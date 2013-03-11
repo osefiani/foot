@@ -1,0 +1,14 @@
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\bin\Debug\TestProject.dll
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\bin\Debug\TestProject.pdb
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\bin\Debug\foot.dll
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\bin\Debug\foot.pdb
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\obj\Debug\TestProject.dll
+C:\Users\othmane.sefiani\Documents\Visual Studio 2010\Projects\foot\TestProject\obj\Debug\TestProject.pdb
+D:\TestProject\bin\Debug\TestProject.dll
+D:\TestProject\bin\Debug\TestProject.pdb
+D:\TestProject\bin\Debug\foot.dll
+D:\TestProject\bin\Debug\foot.pdb
+D:\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\TestProject\obj\Debug\TestProject.dll
+D:\TestProject\obj\Debug\TestProject.pdb
